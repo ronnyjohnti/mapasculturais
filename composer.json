@@ -30,7 +30,8 @@
         "symfony/mailer": "^6.3",
         "symfony/mailgun-mailer": "^6.3",
         "symfony/mime": "^6.3",
-        "symfony/sendgrid-mailer": "^6.3"
+        "symfony/sendgrid-mailer": "^6.3",
+        "php-curl-class/php-curl-class": "^9.18"
     },
     "autoload": {
         "psr-4": {
